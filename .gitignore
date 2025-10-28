@@ -1,5 +1,8 @@
 parameters.json
 deployment-outputs.env
+data-*.txt
+data-grav*.sh
+temp/
 
 # Logs
 logs

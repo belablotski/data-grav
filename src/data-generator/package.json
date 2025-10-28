@@ -1,0 +1,27 @@
+{
+  "name": "data-grav-generator",
+  "version": "1.0.0",
+  "description": "Data generator for Azure Blob Storage replication testing",
+  "main": "generate.js",
+  "type": "module",
+  "scripts": {
+    "start": "node generate.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "azure",
+    "storage",
+    "blob",
+    "data-generator",
+    "testing"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@azure/storage-blob": "^12.17.0",
+    "commander": "^11.1.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

@@ -2,6 +2,10 @@
 
 A comprehensive testing suite for Azure Blob Storage replication scenarios and Azure Storage Actions. This project helps you test and monitor geo-replication behavior, measure replication lag, and validate data consistency across Azure regions.
 
+**Status:**
+1. Infra setup works
+2. Data generation + upload works
+
 ## Overview
 
 Data-Grav provides tools to:

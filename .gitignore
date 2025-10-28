@@ -1,3 +1,6 @@
+parameters.json
+deployment-outputs.env
+
 # Logs
 logs
 *.log

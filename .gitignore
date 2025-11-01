@@ -1,7 +1,7 @@
 parameters.json
-deployment-outputs.env
-data-*.txt
-data-grav*.sh
+*.env
+*.env.local
+.azure/
 temp/
 
 # Logs

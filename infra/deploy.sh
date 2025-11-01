@@ -9,7 +9,7 @@ NC='\033[0m' # No Color
 
 # Configuration
 RESOURCE_GROUP_NAME="${RESOURCE_GROUP_NAME:-data-grav-rg}"
-LOCATION="${LOCATION:-eastus}"
+LOCATION="${LOCATION:-westus2}"
 PARAMETERS_FILE="${PARAMETERS_FILE:-parameters.json}"
 
 echo -e "${GREEN}========================================${NC}"
